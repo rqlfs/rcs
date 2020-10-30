@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1", "day1\day1.csproj", "{85A0C0DC-7B3F-4846-B6C1-C4C2543361F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2", "day2\day2.csproj", "{BCCDA256-708B-4506-A059-EFA0AB2468AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85A0C0DC-7B3F-4846-B6C1-C4C2543361F0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{85A0C0DC-7B3F-4846-B6C1-C4C2543361F0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{85A0C0DC-7B3F-4846-B6C1-C4C2543361F0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{85A0C0DC-7B3F-4846-B6C1-C4C2543361F0}.Release|anycpu.Build.0 = Release|anycpu
+		{BCCDA256-708B-4506-A059-EFA0AB2468AD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BCCDA256-708B-4506-A059-EFA0AB2468AD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BCCDA256-708B-4506-A059-EFA0AB2468AD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BCCDA256-708B-4506-A059-EFA0AB2468AD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
